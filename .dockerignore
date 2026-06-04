@@ -1,0 +1,5 @@
+.env
+mcp-abap-adt\node_modules
+__pycache__
+*.pyc
+.git
